@@ -1,1 +1,3 @@
-Estou em uma nova branch
+Estou em uma nova branch.
+
+Eu o comando git branch nome da branch para criar uma nova branch.
